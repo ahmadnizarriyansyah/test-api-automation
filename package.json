@@ -1,0 +1,15 @@
+{
+  "name": "api-automation-test",
+  "version": "1.0.0",
+  "description": "Restful Booker API E2E Automation Testing",
+  "main": "apiTest.js",
+  "scripts": {
+    "test": "mocha apiTest.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.0.3",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
