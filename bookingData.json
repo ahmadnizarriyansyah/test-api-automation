@@ -4,8 +4,8 @@
   "totalprice" : 111,
   "depositpaid" : true,
   "bookingdates" : {
-      "checkin" : "2025-01-01",
-      "checkout" : "2025-01-10"
+      "checkin" : "2018-01-01",
+      "checkout" : "2019-01-01"
   },
   "additionalneeds" : "Breakfast"
 }
